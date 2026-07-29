@@ -1,0 +1,14 @@
+# Obsidian workspace state (personal, changes often)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache
+.obsidian/cache
+.obsidian/graph.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# MiMoCode internals
+.mimocode/
